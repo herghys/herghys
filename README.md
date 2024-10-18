@@ -27,17 +27,17 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on: [Game Development]
 - 💬 Ask me about: Unity3D
 - 📫 How to reach me: 
-  - **![Email](/assets/icons/email.png) Email**: [helmi.santosa1@gmail.com](mailto:helmi.santosa1@gmail.com)
+  - **![Email](.assets/.icons/email.png) Email**: [helmi.santosa1@gmail.com](mailto:helmi.santosa1@gmail.com)
 
-  - **![Phone](assets/icons/whatsapp.png) WhatsApp**: 
+  - **![Phone](.assets/.icons/whatsapp.png) WhatsApp**: 
   [+62 877-7113-9889](https://wa.me/+6287771139889)
 
-  - **![LinkedIn](assets/icons/linkedin.png) LinkedIn**: 
+  - **![LinkedIn](.assets/.icons/linkedin.png) LinkedIn**: 
   [Helmi Arghya Santosa](https://www.linkedin.com/in/herghys)
 
-  - **![Facebook](assets/icons/facebook.png) Facebook**: [Helmi Arghya Santosa](https://www.facebook.com/herghys)
+  - **![Facebook](.assets/.icons/facebook.png) Facebook**: [Helmi Arghya Santosa](https://www.facebook.com/herghys)
 
-  - **![Instagram](assets/icons/instagram.png) Instagram**: [Helmi Arghya Santosa](https://www.instagram.com/herghys__)
+  - **![Instagram](.assets/.icons/instagram.png) Instagram**: [Helmi Arghya Santosa](https://www.instagram.com/herghys__)
   
 ---
 ## 🔧 Technologies & Tools
