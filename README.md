@@ -1,4 +1,4 @@
-# Hello, I'm [Herghys] 👋
+# Hello, I'm Herghys (Helmi Arghya Santosa) 👋
 
 <!--
 **herghys/herghys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,7 +26,9 @@ Here are some ideas to get you started:
   
 - 👯 I’m looking to collaborate on: [Game Development]
 - 💬 Ask me about: Unity3D
-- 📫 How to reach me: 
+
+### Portfolio
+You can check my portfolios at [herghys.github.io/portfolio](https://herghys.github.io/portfolio/)
 
 ### 📫 How to reach me:
 
