@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 - 🌱 I’m currently learning: 
-  - Advanced C# Programming
-  - Advanced Unity3D
-  - ASP.Net WebAPI
+- Advanced C# Programming
+- Advanced Unity3D
+- Unity DOTS / ECS
+- VR (Steam VR SDK)
+- Multiplayer with Mirror Networking
   
-- 🔭 I’m working on:
-  - Duckie Bubble (Telegram Bot - Game)
-  - Ducky Pop (Android Mobile Game)
-  
+
 - 👯 I’m looking to collaborate on: [Game Development]
 - 💬 Ask me about: Unity3D
 - 📫 How to reach me: 
