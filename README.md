@@ -76,7 +76,7 @@ Selected commercial games, web platforms, and software tools — [browse all 32 
 | :--- | :--- | :--- | :--- |
 | **Unity Programmer** | PT. Falah Inovasi Teknologi | 01/2025 – Present | Engineer high-fidelity 3D and VR simulation applications in Unity3D, developing modular physics-driven simulation systems and real-time trajectory calculation mechanics. |
 | **Game Developer (Unity Developer)** | Newfemme Wanita Indonesia | 03/2022 – 08/2024 | Engineered core gameplay and client systems for commercial mobile releases including the Newfemme mobile application and *Cinda: Virtual Dress Up*. |
-| **Game & Software Developer (Self-Employed)** | Herghys Studio | 06/2021 – Present | Designed, programmed, and published commercial mobile games on Google Play, including *Pong Evolved* and *Tap!*. |
+| **Game & Software Developer (Self-Employed)** | Herghys Studio | 06/2021 – Present | Designed and programmed commercial mobile games on Google Play, including *Pong Evolved* and *Tap!*. |
 | **Freelance Game Developer** | PT Teknoreka Inovasi Nusantara | 06/2023 – 08/2023 | Developed 2D WebGL educational games (*SiMurda Edugame*, *Eksponen Edugame*, *Petualangan Qori*) with interactive quizzes and storytelling mechanics. |
 | **Game Developer** | Fomuo Games | 02/2023 – 06/2023 | Developed and reskinned casual 2D mobile titles (*Candies Land*, *Baker Pro*, *Blush Tales*, *Blush Crush*, *Crossy Cube*) and Windows 3D prototypes (*Tiny Crash*, *Sky Racer*). |
 
